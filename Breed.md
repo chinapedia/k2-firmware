@@ -9,7 +9,7 @@
 
 改为：
 
- 05 | /usr/sbin/telnetd -l /bin/login.sh
+<code>05 | /usr/sbin/telnetd -l /bin/login.sh</code>
 
 在定时重启路由器页面上重新选择05之后（这里要注意，一定要重选，并且重选后可以看到05后面自己输入的字符）：
 
